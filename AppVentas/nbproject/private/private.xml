@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>file:/C:/Users/sebastian/Documents/NetBeansProjects/appVentas/src/java/pe/uch/appventas/controller/LoginController.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>39</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/SALOME/Desktop/proyecto%20Spring/AppVentas/AppVentas/AppVentas/src/java/pe/uch/appventas/model/Promocion.java</file>
+            <file>file:/C:/Users/SALOME/Desktop/proyecto%20Spring/AppVentas/AppVentas/AppVentas/src/java/pe/uch/appventas/util/EncrypContraseña.java</file>
+            <file>file:/C:/Users/SALOME/Desktop/proyecto%20Spring/AppVentas/AppVentas/AppVentas/src/java/pe/uch/appventas/service/LoginService.java</file>
+            <file>file:/C:/Users/SALOME/Desktop/proyecto%20Spring/AppVentas/AppVentas/AppVentas/src/java/pe/uch/appventas/model/Login.java</file>
+            <file>file:/C:/Users/SALOME/Desktop/proyecto%20Spring/AppVentas/AppVentas/AppVentas/src/java/pe/uch/appventas/controller/LoginController.java</file>
+            <file>file:/C:/Users/SALOME/Desktop/proyecto%20Spring/AppVentas/AppVentas/AppVentas/src/java/pe/uch/appventas/service/PromocionService.java</file>
+            <file>file:/C:/Users/SALOME/Desktop/proyecto%20Spring/AppVentas/AppVentas/AppVentas/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/SALOME/Desktop/proyecto%20Spring/AppVentas/AppVentas/AppVentas/src/java/pe/uch/appventas/controller/ProductoController.java</file>
+            <file>file:/C:/Users/SALOME/Desktop/proyecto%20Spring/AppVentas/AppVentas/AppVentas/src/java/pe/uch/appventas/service/UsuarioService.java</file>
+            <file>file:/C:/Users/SALOME/Desktop/proyecto%20Spring/AppVentas/AppVentas/AppVentas/src/java/pe/uch/appventas/model/Producto.java</file>
+            <file>file:/C:/Users/SALOME/Desktop/proyecto%20Spring/AppVentas/AppVentas/AppVentas/src/java/pe/uch/appventas/service/ProductoService.java</file>
+        </group>
+    </open-files>
+</project-private>
